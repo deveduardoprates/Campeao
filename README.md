@@ -1,3 +1,4 @@
 # Campeão
+***
 
-Primeiro repositorio
+- [x] Primeiro repositorio
